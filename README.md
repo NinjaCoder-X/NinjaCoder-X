@@ -50,13 +50,26 @@
 ![Databases](https://img.shields.io/badge/Databases-MySQL%20|%20MongoDB-brightgreen?style=flat&logo=mongodb)  
 ![Tools](https://img.shields.io/badge/Tools-Git%20|%20Docker%20|%20VSCode%20|%20Postman-critical?style=flat&logo=visualstudiocode)
 
+###
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NinjaCoder-X&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NinjaCoder-X&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NinjaCoder-X&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NinjaCoder-X&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NinjaCoder-X&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
+[![](https://visitcount.itsvg.in/api?id=NinjaCoder-X&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NinjaCoder-X&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NinjaCoder-X&layout=compact&theme=radical)
-
----
 
 ## 🔗 Let's Connect
 
@@ -80,11 +93,3 @@
 
 ---
 
-###
-
-⚡ **Fun fact** 
-
-- [Why do programmers prefer dark mode?
-  Because the light attracts bugs!]
-
-###
