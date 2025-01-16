@@ -1,41 +1,73 @@
-<h1 align="center">Hi 👋, I'm Vihanga Sithum</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi, I'm NinjaCoder-X!  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjacoder-x&label=Profile%20views&color=0e75b6&style=flat" alt="ninjacoder-x" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=NinjaCoder-X&color=brightgreen) | ![GitHub Followers](https://img.shields.io/github/followers/NinjaCoder-X?style=social)  ![GitHub Stars](https://img.shields.io/github/stars/NinjaCoder-X?style=social)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninjacoder-x" alt="ninjacoder-x" /></a> </p>
+---
 
-- 🔭 I’m currently working on [SenpaiBot](https://github.com/NinjaCoder-X/SenpaiBot)
+## 🚀 About Me  
+🌟 Passionate developer who loves crafting efficient and innovative solutions.  
+🎯 Focused on [your areas of expertise, e.g., web development, machine learning, etc.].  
+✨ Always exploring new tools and technologies to stay ahead.  
 
-- 🌱 I’m currently learning **Software Developing & Bot Developing**
+---
 
-- 👯 I’m looking to collaborate on [SenpaiBot](https://github.com/NinjaCoder-X/SenpaiBot)
+## 🔨 Work  
 
-- 🤝 I’m looking for help with [SenpaiBot](https://github.com/NinjaCoder-X/SenpaiBot)
+🔭 **I’m currently working on**  
+- [Project Name](project-link)  
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
+👯 **I’m looking to collaborate on**  
+- [Project Name](project-link)  
 
-- 📝 I regularly write articles on [Coming Soon](Coming Soon)
+🤝 **I’m looking for help with**  
+- [Project Name](project-link)  
 
-- 💬 Ask me about **Anything**
+🌱 **I’m currently learning**  
+- Frameworks, courses, etc.  
 
-- 📫 How to reach me **ninjacoderxx@gmail.com**
+💬 **Ask me about**  
+- React, Vue, and GSAP  
 
-- 📄 Know about my experiences [Coming Soon](Coming Soon)
+📫 **How to reach me**  
+- example@gmail.com  
 
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because the light attracts bugs!**
+👨‍💻 **All of my projects are available at**  
+- [Portfolio Link](portfolio-link)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ninjacoderxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ninjacoderxx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ninjacoderxx-source" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ninjacoderxx-source" height="30" width="40" /></a>
-</p>
+📝 **I regularly write articles on**  
+- [Blog Link](blog-link)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+📄 **Know about my experiences**  
+- [Resume Link](resume-link)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NinjaCoder-X&show_icons=true&locale=en&layout=compact" alt="NinjaCoder-X" /></p>
+⚡ **Fun fact**  
+- [Add your fun fact here!]  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NinjaCoder-X&show_icons=true&locale=en" alt="NinjaCoder-X" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NinjaCoder-X&" alt="NinjaCoder-X" /></p>
+## 🛠️ Tech Stack  
+![Languages](https://img.shields.io/badge/Code-Python%20|%20JavaScript%20|%20C%2B%2B%20|%20HTML%20|%20CSS-informational?style=flat&logo=codeforces)  
+![Frameworks](https://img.shields.io/badge/Frameworks-React%20|%20Vue%20|%20GSAP%20|%20Node.js%20|%20Express.js-blue?style=flat&logo=react)  
+![Databases](https://img.shields.io/badge/Databases-MySQL%20|%20MongoDB-brightgreen?style=flat&logo=mongodb)  
+![Tools](https://img.shields.io/badge/Tools-Git%20|%20Docker%20|%20VSCode%20|%20Postman-critical?style=flat&logo=visualstudiocode)
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NinjaCoder-X&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NinjaCoder-X&layout=compact&theme=radical)
+
+---
+
+## 🔗 Let's Connect  
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NinjaCoder-X)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)  
+
+---
+
+## 💡 Fun Fact  
+
+💬 I love connecting with people who share my passion for technology! Don't hesitate to reach out for collaboration. 😄  
