@@ -54,8 +54,7 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NinjaCoder-X&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NinjaCoder-X&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NinjaCoder-X&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NinjaCoder-X&layout=compact&theme=radical)
 
 ---
 
