@@ -14,22 +14,22 @@
 ## 🔨 Work  
 
 🔭 **I’m currently working on**  
-- [Project Name](project-link)  
+- [SenpaiBot](https://github.com/NinjaCoder-X/SenpaiBot)
 
 👯 **I’m looking to collaborate on**  
-- [Project Name](project-link)  
+- [SenpaiBot](https://github.com/NinjaCoder-X/SenpaiBot)
 
 🤝 **I’m looking for help with**  
-- [Project Name](project-link)  
+- [SenpaiBot](https://github.com/NinjaCoder-X/SenpaiBot)  
 
 🌱 **I’m currently learning**  
-- Frameworks, courses, etc.  
+- Programming Frameworks, courses, etc.  
 
 💬 **Ask me about**  
-- React, Vue, and GSAP  
+- ANything/  
 
 📫 **How to reach me**  
-- example@gmail.com  
+- ninjacoderxx@gmail.com 
 
 👨‍💻 **All of my projects are available at**  
 - [Portfolio Link](portfolio-link)  
@@ -40,8 +40,7 @@
 📄 **Know about my experiences**  
 - [Resume Link](resume-link)  
 
-⚡ **Fun fact**  
-- [Add your fun fact here!]  
+
 
 ---
 
@@ -60,14 +59,33 @@
 
 ---
 
-## 🔗 Let's Connect  
+## 🔗 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NinjaCoder-X)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)  
+<div align="center">
+  <a href="https://www.youtube.com/@NinjaCoderXX-source" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/ninjacoderxx/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/94752799279?text=%3E%20Hello%20%F0%9F%91%8B%20%20NinjaCoder-X!%0A" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="ninjacoderxx@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://discordapp.com/users/876625308218957865" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
 
 ---
 
-## 💡 Fun Fact  
+###
 
-💬 I love connecting with people who share my passion for technology! Don't hesitate to reach out for collaboration. 😄  
+⚡ **Fun fact** 
+
+- [Why do programmers prefer dark mode?
+  Because the light attracts bugs!]
+
+###
